@@ -1,3 +1,0 @@
-1. How to work with Django - build starter template for the project
-2. How to work with covid api's
-3. Desgin consepts
