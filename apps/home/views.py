@@ -12,7 +12,8 @@ from django.urls import reverse
 
 #@login_required(login_url="/login/")
 def index(request):
-    context = {'segment': 'dashboard'}
+    thisdata = 'dhsgfdhrsghrg'
+    context = {'segment': 'dashboard', 'data': thisdata}
 
     html_template = loader.get_template('home/dashboard.html')
     return HttpResponse(html_template.render(context, request))

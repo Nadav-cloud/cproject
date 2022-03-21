@@ -260,3 +260,12 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 ---
 [Django Bootstrap 5](https://appseed.us/admin-dashboards/django-dashboard-volt) Volt - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
+
+
+
+tasks:
+  choose styling framework (Volt/Bootstrap/Tailwind/other..)
+  choose database (sql/mongoDB/other) tend to sql - cloud solution (non relational db)
+  until next week - continue course & choose db solution
+
+
